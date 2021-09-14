@@ -1,5 +1,5 @@
 # Summaries
-## Feel free to click the star button and endorse my [LinkedIn](https://www.linkedin.com/in/oran-danon-255ba8199/) in the relevant fields. 
+## Feel free to click the star button, and endorse my [LinkedIn](https://www.linkedin.com/in/oran-danon-255ba8199/) in the relevant fields. 
 ### Copyright © All rights reserved to Oran Danon
 
 ### Explanation
@@ -9,7 +9,7 @@ Feel free to contact me on [my email](mailto:orandanon194@gmail.com).
 
 
 ### Lecturers
-I would like to thank the following lecturers how taught me the following course. They do not responsible to any mistake I may have in my notes.
+I would like to thank the following lecturers how taught me the following course. They do not responsible for any mistake I may have in my notes.
 | Course  | Lectuerer |
 | ------------- | ------------- |
 | Algorithms 2  | Ph.D. Elad Aigner-Horev  |
