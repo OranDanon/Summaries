@@ -1,6 +1,7 @@
 # Summaries
 ## Click the star button, and endorse my [LinkedIn](https://www.linkedin.com/in/oran-danon-255ba8199/) in the relevant fields. 
 ### Copyright © All rights reserved to Oran Danon
+[For more details](https://github.com/OranDanon/Summaries/blob/main/LICENSE.md)
 
 ### Explanation
 Recently, I finished my Master degree in CS so I decided to upload some of my summaries, obviously, some contain errors, and should be read carefully. 
