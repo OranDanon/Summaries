@@ -1,5 +1,5 @@
 # Summaries
-## Feel free to click the star button, and endorse my [LinkedIn](https://www.linkedin.com/in/oran-danon-255ba8199/) in the relevant fields. 
+## Click the star button, and endorse my [LinkedIn](https://www.linkedin.com/in/oran-danon-255ba8199/) in the relevant fields. 
 ### Copyright © All rights reserved to Oran Danon
 
 ### Explanation
