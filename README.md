@@ -10,7 +10,7 @@ Feel free to contact me on [my email](mailto:orandanon194@gmail.com).
 
 
 ### Lecturers
-I would like to thank the following lecturers how taught me the following course. They do not responsible for any mistake I may have in my notes.
+I would like to thank the following lecturers who taught me the following course. They do not responsible for any mistake I may have in my notes.
 | Course  | Lectuerer |
 | ------------- | ------------- |
 | Algorithms 2  | Ph.D. Elad Aigner-Horev  |
